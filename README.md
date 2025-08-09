@@ -209,3 +209,4 @@ Building something? Let's connect the neurons:
 *"At the very core, I'm just a builder. I really just got that builder mentality."*
 
 **Built with 🧠 by Angel**# portfolio
+# portfolio
